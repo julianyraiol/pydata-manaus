@@ -1,8 +1,9 @@
 # PyData Manaus
 Comunidade para amantes de machine learning e ciência de dados em Manaus
 
-# Quero iniciar 
+# Quero trabalhar com dados! Mas e agora?!
 
-# Ferramentas para trabalhar com dados
+- Python
+- Matemática e Estatística
 
 # Cursos
