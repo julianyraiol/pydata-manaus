@@ -1,15 +1,8 @@
-# pydata-manaus
-Comunidade para desenvolvedores e usuários de ferramentas de código aberto para ciênica de dados.
+# PyData Manaus
+Comunidade para amantes de machine learning e ciência de dados em Manaus
 
-# Diretrizes para o uso dos repositórios
-Padronização e boas práticas
+# Quero iniciar 
 
-Caso você encontre algum conjunto de dados promissor e quiser explorá-lo com a comunidade, você pode adicionar no repositório do PyData Manaus, e quem tiver itens a adicionar pode contribuir adicionando seu jupyter no repo conforme descrito a seguir.
+# Ferramentas para trabalhar com dados
 
-## Como criar um repositório
-
-## Como criar um branch
-
-## Como commitar
-
-## Merge Requests
+# Cursos
